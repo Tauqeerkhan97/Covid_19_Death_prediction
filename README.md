@@ -19,30 +19,3 @@ Libraries: `Pandas` & `NumPy` (Data Manipulation & Preprocessing)
 3. **Feature Engineering:** Encoding categorical variables and scaling numerical attributes for optimal model performance.
 4. **Model Implementation:** Training classification algorithms (such as Logistic Regression, Decision Trees, or Random Forest) to predict the outcome.
 5. **Evaluation:** Checking model viability using Accuracy, Confusion Matrix, Precision, Recall, and F1-Score.
-
-  Repository Structure
-
-├── Data/                             # Raw or processed dataset files
-├── Covid_19_Death_prediction.ipynb   # Main Jupyter notebook containing implementation
-├── README.md                         # Project documentation
-└── requirements.txt                  # Dependencies list (if applicable)
-
- How to Run Locally
-1. Clone the repository:
-Bash
-git clone [https://github.com/Tauqeerkhan97/Covid_19_Death_prediction.git](https://github.com/Tauqeerkhan97/Covid_19_Death_prediction.git)
-cd Covid_19_Death_prediction
-2. Install Dependencies:
-Bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-3. Run the Notebook:
-Launch Jupyter Notebook or open the file in Google Colab to run the cells sequentially:
-
-Bash
-jupyter notebook Covid_19_Death_prediction.ipynb
- Future Scope
-Implementing Deep Learning models (Neural Networks) for higher precision.
-
-Deploying the model as a web application using Flask or Streamlit.
-
-Integrating real-time medical datasets from global health organizations.
