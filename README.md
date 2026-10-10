@@ -13,7 +13,7 @@ Libraries: `Pandas` & `NumPy` (Data Manipulation & Preprocessing)
 `Scikit-Learn` (Model Training, Testing, and Evaluation)
 * **Environment:** Jupyter Notebook / Google Colab
 
- Key Features of the Pipeline
+Core Of The Project Pipeline
 1. **Data Cleaning:** Handling missing values, removing duplicates, and structuring inconsistent patient logs.
 2. **Exploratory Data Analysis (EDA):** Visualizing correlation between age, pre-existing comorbidities (like diabetes, hypertension), and the survival rate.
 3. **Feature Engineering:** Encoding categorical variables and scaling numerical attributes for optimal model performance.
