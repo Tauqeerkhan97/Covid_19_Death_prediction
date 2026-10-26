@@ -1,5 +1,5 @@
 
-  Covid-19 Death Prediction Using Machine Learning
+  # Covid-19 Death Prediction Using Machine Learning
 
 This repository contains a Machine Learning project focused on predicting the mortality/death risk of Covid-19 patients based on their clinical data, symptoms, and demographic features. This tool can assist healthcare professionals in prioritizing high-risk patients and allocating critical medical resources effectively.
 
@@ -19,3 +19,5 @@ Core Of The Project Pipeline
 3. **Feature Engineering:** Encoding categorical variables and scaling numerical attributes for optimal model performance.
 4. **Model Implementation:** Training classification algorithms (such as Logistic Regression, Decision Trees, or Random Forest) to predict the outcome.
 5. **Evaluation:** Checking model viability using Accuracy, Confusion Matrix, Precision, Recall, and F1-Score.
+
+All Docs Present
