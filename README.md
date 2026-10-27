@@ -19,5 +19,3 @@ Core Of The Project Pipeline
 3. **Feature Engineering:** Encoding categorical variables and scaling numerical attributes for optimal model performance.
 4. **Model Implementation:** Training classification algorithms (such as Logistic Regression, Decision Trees, or Random Forest) to predict the outcome.
 5. **Evaluation:** Checking model viability using Accuracy, Confusion Matrix, Precision, Recall, and F1-Score.
-
-All Docs Present
